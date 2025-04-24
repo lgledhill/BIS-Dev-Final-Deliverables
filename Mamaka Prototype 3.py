@@ -1,3 +1,10 @@
+"""
+Application: Mamaka Bowls Ordering System
+Developer: Code Runners
+Date: 4/16/2025
+Purpose: A system that allows users to order food items from Mamaka Bowls and calculates the total cost.
+"""
+
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
